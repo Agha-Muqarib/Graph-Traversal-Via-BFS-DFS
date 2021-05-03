@@ -5,8 +5,8 @@ The repository contains python code to traverse any graph given in the form of d
 
 The output for BFS looks like this:
 
-[BFS](https://github.com/Agha-Muqarib/Graph-Traversal-Via-BFS-DFS/blob/main/Images/BFS.png)
+![BFS](https://github.com/Agha-Muqarib/Graph-Traversal-Via-BFS-DFS/blob/main/Images/BFS.png)
 
 The output for DFS looks like this:
 
-[DFS](https://github.com/Agha-Muqarib/Graph-Traversal-Via-BFS-DFS/blob/main/Images/DFS.png)
+![DFS](https://github.com/Agha-Muqarib/Graph-Traversal-Via-BFS-DFS/blob/main/Images/DFS.png)
